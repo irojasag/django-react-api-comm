@@ -25,3 +25,11 @@ npm install
 npm start
 ```
 Usar frontend [http://localhost:3000/](http://localhost:3000/)
+
+## Templates
+[matx](https://github.com/uilibrary/matx-react)
+[mosaic lite](https://github.com/cruip/tailwind-dashboard-template)
+[Material Kit React](https://github.com/devias-io/material-kit-react)
+[ArchitectUI](https://github.com/DashboardPack/architectui-react-theme-free)
+[Crystal Dashboard](https://github.com/JSLancerTeam/crystal-dashboard)
+
